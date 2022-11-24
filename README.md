@@ -1,0 +1,1 @@
+#### Script to automate the process of bunring an Arch Linux img to an SDCard for Raspberry pi 4. Still needs some debugging, but could give you an idea of what's the main task to automate.
